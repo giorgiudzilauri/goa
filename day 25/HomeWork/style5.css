@@ -1,0 +1,18 @@
+.btn {
+    width: 100px;
+    height: 30px;
+    color: darkslateblue;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    border: 1px solid rgb(135, 152, 222);
+    cursor: pointer;
+}
+.heading,
+main p{
+    background-color: darkgrey;
+    color: darkviolet;
+
+}
+footer{
+    background-color: darkorange;
+}

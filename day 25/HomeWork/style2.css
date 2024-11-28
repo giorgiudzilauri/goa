@@ -1,0 +1,19 @@
+.btn {
+    width: 100px;
+    height: 30px;
+    color: goldenrod;
+    background-color: aqua;
+    border-radius: 5px;
+    border: 1px solid rgb(135, 152, 222);
+    cursor: pointer;
+}
+.heading,
+main p{
+    background-color: yellowgreen;
+    color: blue;
+
+}
+footer{
+    background-color: azure;
+}
+
