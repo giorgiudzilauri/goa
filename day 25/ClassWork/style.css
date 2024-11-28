@@ -1,0 +1,21 @@
+.btn {
+    width: 100px;
+    height: 30px;
+    color: blueviolet;
+    background-color: aqua;
+    border-radius: 5px;
+    border: 1px solid burlywood;
+    cursor: pointer;
+}
+.heading,
+main p{
+    background-color: blanchedalmond;
+    color: chocolate;
+
+}
+footer{
+    background-color: darkcyan;
+}
+
+
+
