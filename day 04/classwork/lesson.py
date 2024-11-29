@@ -2,7 +2,7 @@
 print("Hello, World")
 
 #Exercise 2: 
-greeting = "Good Morning"
+greeting = "Have Nice Day"
 print("gretin")
 
 #Exercise 3: 
@@ -15,7 +15,7 @@ number = 50
 print("The number is: " + "number")
 
 #Exercise 5: 
-name = "George"
+name = "Gela"
 print("Hello name!")
 
 #Exercise 6: 
