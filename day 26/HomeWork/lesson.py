@@ -1,3 +1,28 @@
+#HM1
+from turtle import *
+speed(20)
+width(7)
+
+def triangle():
+    color("green")
+    begin_fill()
+    forward(100)
+    left(120)
+    forward(100)
+    left(120)
+    forward(100)
+    end_fill()
+    left(30)
+    penup()
+    forward(100)
+    pendown()
+    left(90)
+
+
+for i in range(120):
+    triangle()
+exitonclick()
+
 #HW 2
 def hello_world():
     print("hello_world")
