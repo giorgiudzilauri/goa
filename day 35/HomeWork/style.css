@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./assets/potos/051770bff0278993bc92ac2ca63a6606.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
