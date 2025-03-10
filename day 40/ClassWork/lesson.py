@@ -40,7 +40,6 @@ def friend(x):
     return list_friends
 
 #4 problem
-# classwork 4
 def validate_pin(pin):
     if len(pin) == 4 or len(pin) == 6:
         for char in pin:

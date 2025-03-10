@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #D45561;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.rectangle {
+    width: 80px;
+    height: 200px;
+    background-color: #FEFDE4;
+}
+
+.circles {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    background-color: #FEFDE4;
+    border-radius: 50%;
+}
